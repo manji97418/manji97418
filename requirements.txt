@@ -1,2 +1,0 @@
-python_telegram_bot==13.8.1
-telegram==0.0.1
